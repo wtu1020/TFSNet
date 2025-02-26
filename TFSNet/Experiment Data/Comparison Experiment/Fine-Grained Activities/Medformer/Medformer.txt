@@ -1,0 +1,19 @@
+Accuracy: 68.33333333333333% (68.33%)
+Precision: 70.44028582568961% (70.44%)
+Recall: 70.45012906394436% (70.45%)
+F1-score: 68.44469454018035% (68.44%)
+FLOPs: 106779264 (106.78M)
+Params: 1280883 (1.28M)
+Validation loss: 1.9052529335021973 (1.905)
+
+relaxing - Train loss: 0.005215352316731389, Train accuracy: 1.0, Validation loss: 0.0014756903983652592, Validation accuracy: 1.0
+lifting - Train loss: 0.028271914975088443, Train accuracy: 0.9947916666666667, Validation loss: 0.6042670011520386, Validation accuracy: 0.8888888955116272
+carrying - Train loss: 0.0041292329572103865, Train accuracy: 1.0, Validation loss: 0.5026829838752747, Validation accuracy: 0.8644067645072937
+playing basketball - Train loss: 0.058505965085546396, Train accuracy: 0.9826388905445735, Validation loss: 2.0502920150756836, Validation accuracy: 0.6376811861991882
+using the mouse - Train loss: 0.02444558563043605, Train accuracy: 0.9947916666666667, Validation loss: 0.7766541242599487, Validation accuracy: 0.8666667342185974
+using the phone - Train loss: 0.04707513917984585, Train accuracy: 0.9849537039796512, Validation loss: 0.8256372809410095, Validation accuracy: 0.8461538553237915
+typing - Train loss: 0.06761649604341831, Train accuracy: 0.973214291036129, Validation loss: 0.564716637134552, Validation accuracy: 0.9230769872665405
+writing - Train loss: 0.07949884622310795, Train accuracy: 0.9555059572060902, Validation loss: 3.235508918762207, Validation accuracy: 0.42105263471603394
+reading - Train loss: 0.25704723126970447, Train accuracy: 0.9162202415366967, Validation loss: 1.506507158279419, Validation accuracy: 0.6507936716079712
+using chopsticks - Train loss: 0.18557201729549888, Train accuracy: 0.9541170696417491, Validation loss: 4.96725606918335, Validation accuracy: 0.2857142984867096
+using a spoon - Train loss: 0.21264628725811008, Train accuracy: 0.9194444480041664, Validation loss: 4.332029342651367, Validation accuracy: 0.3650793731212616

@@ -1,0 +1,20 @@
+Accuracy: 97.93062379038261% (97.93%)
+Precision: 97.78525394685424% (97.79%)
+Recall: 97.63108191354041% (97.63%)
+F1-score: 97.7033159130848% (97.70%)
+FLOPs: 7497916 (7.50M)
+Params: 982663 (0.98M)
+Validation loss: 0.07610255479812622 (0.076)
+
+Lying - Train loss: 0.0018381408251413323, Train accuracy: 0.999115126787639, Validation loss: 0.01966204307973385, Validation accuracy: 0.9929077625274658
+Sitting - Train loss: 0.010690444752347698, Train accuracy: 0.9959275136228468, Validation loss: 0.0759681686758995, Validation accuracy: 0.9801828861236572
+Standing - Train loss: 0.030332246500113454, Train accuracy: 0.9936732681559736, Validation loss: 0.027092009782791138, Validation accuracy: 0.9890795350074768
+Walking - Train loss: 0.006251326541817123, Train accuracy: 0.9980681663165327, Validation loss: 0.0813341960310936, Validation accuracy: 0.9800249338150024
+Running - Train loss: 0.003981617349878935, Train accuracy: 0.9645784546117314, Validation loss: 0.11591488122940063, Validation accuracy: 0.9853372573852539
+Cycling - Train loss: 0.0038102427244099775, Train accuracy: 0.9946020514261528, Validation loss: 0.02485319785773754, Validation accuracy: 0.9945553541183472
+Nordic walking - Train loss: 0.0054240790921284325, Train accuracy: 0.9977572860776401, Validation loss: 0.040040887892246246, Validation accuracy: 0.9909228086471558
+Ascending stairs - Train loss: 0.01671091580345994, Train accuracy: 0.9888270885729399, Validation loss: 0.12175391614437103, Validation accuracy: 0.9536082148551941
+Descending stairs - Train loss: 0.021192010020879205, Train accuracy: 0.9773061417165351, Validation loss: 0.18445606529712677, Validation accuracy: 0.95211261510849
+Vacuum cleaning - Train loss: 0.023627866139359178, Train accuracy: 0.9941028703431615, Validation loss: 0.14413924515247345, Validation accuracy: 0.9498327970504761
+lroning - Train loss: 0.03285202224587081, Train accuracy: 0.9906954513710053, Validation loss: 0.06358614563941956, Validation accuracy: 0.9849012494087219
+Rope jumping - Train loss: 0.0070610425738796955, Train accuracy: 0.8092896176166222, Validation loss: 0.19884254038333893, Validation accuracy: 0.9622641205787659

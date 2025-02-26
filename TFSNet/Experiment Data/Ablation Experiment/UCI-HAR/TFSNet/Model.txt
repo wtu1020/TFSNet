@@ -1,0 +1,14 @@
+Accuracy: 97.21750933152359% (97.22%)
+Precision: 97.185072851843% (97.19%)
+Recall: 97.2369381837515% (97.24%)
+F1-score: 97.19026202415479% (97.19%)
+FLOPs: 796832 (0.80M)
+Params: 14334 (0.01M)
+Validation loss: 0.12114273011684418 (0.121)
+
+WALKING - Train loss: 0.0013959649551364699, Train accuracy: 1.0, Validation loss: 0.03836822509765625, Validation accuracy: 0.9899193048477173
+WALKING_UPSTAIRS - Train loss: 0.0020209474187379926, Train accuracy: 1.0, Validation loss: 0.15306779742240906, Validation accuracy: 0.9511677622795105
+WALKING_DOWNSTAIRS - Train loss: 0.0010763175487386832, Train accuracy: 1.0, Validation loss: 0.016889389604330063, Validation accuracy: 0.997619092464447
+SITTING - Train loss: 0.08123001036961285, Train accuracy: 0.9709017512045408, Validation loss: 0.37225279211997986, Validation accuracy: 0.9368636012077332
+STANDING - Train loss: 0.07504969634464942, Train accuracy: 0.9690401151514889, Validation loss: 0.1411425769329071, Validation accuracy: 0.9586466550827026
+LAYING - Train loss: 0.0009383727190237423, Train accuracy: 1.0, Validation loss: 0.0017216391861438751, Validation accuracy: 1.0

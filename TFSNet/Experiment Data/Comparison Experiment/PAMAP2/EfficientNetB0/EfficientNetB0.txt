@@ -1,0 +1,20 @@
+Accuracy: 97.1266934643442% (97.13%)
+Precision: 96.91143592846275% (96.91%)
+Recall: 96.5763173446979% (96.58%)
+F1-score: 96.72419508778677% (96.72%)
+FLOPs: 28743296 (28.74M)
+Params: 7004064 (7.00M)
+Validation loss: 0.1268797069787979 (0.127)
+
+Lying - Train loss: 0.014180133966000813, Train accuracy: 0.9971525407716877, Validation loss: 0.026027901098132133, Validation accuracy: 0.9943262338638306
+Sitting - Train loss: 0.04446872858215383, Train accuracy: 0.9874852177549581, Validation loss: 0.14772933721542358, Validation accuracy: 0.9664633870124817
+Standing - Train loss: 0.0651989278693743, Train accuracy: 0.9893569789949012, Validation loss: 0.04283067584037781, Validation accuracy: 0.9937597513198853
+Walking - Train loss: 0.027399690049782672, Train accuracy: 0.9937240823370511, Validation loss: 0.10044023394584656, Validation accuracy: 0.976279616355896
+Running - Train loss: 0.05471984708301491, Train accuracy: 0.9537568309756577, Validation loss: 0.12842747569084167, Validation accuracy: 0.9677419066429138
+Cycling - Train loss: 0.019284800826419604, Train accuracy: 0.9939679295801725, Validation loss: 0.1075732633471489, Validation accuracy: 0.9800363183021545
+Nordic walking - Train loss: 0.016372570069285882, Train accuracy: 0.9850992372290033, Validation loss: 0.10332733392715454, Validation accuracy: 0.9803327918052673
+Ascending stairs - Train loss: 0.07723818775068483, Train accuracy: 0.9631391504748923, Validation loss: 0.22122196853160858, Validation accuracy: 0.9329896569252014
+Descending stairs - Train loss: 0.07348703864451149, Train accuracy: 0.9382253462662462, Validation loss: 0.22982431948184967, Validation accuracy: 0.9436619281768799
+Vacuum cleaning - Train loss: 0.05645102355005186, Train accuracy: 0.9799683047611205, Validation loss: 0.22589470446109772, Validation accuracy: 0.9448160529136658
+lroning - Train loss: 0.05574290346120987, Train accuracy: 0.9844854005047532, Validation loss: 0.08452414721250534, Validation accuracy: 0.9779326319694519
+Rope jumping - Train loss: 0.03502403903083216, Train accuracy: 0.7389344265226457, Validation loss: 0.5184637904167175, Validation accuracy: 0.9308176040649414

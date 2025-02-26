@@ -1,0 +1,14 @@
+Accuracy: 59.25925925925925% (59.26%)
+Precision: 61.63508066703556% (61.64%)
+Recall: 60.12703047400538% (60.13%)
+F1-score: 59.113562853112356% (59.11%)
+FLOPs: 4663009 (4.66M)
+Params: 3676 (0.00M)
+Validation loss: 1.1536686420440674 (1.154)
+
+cyl - Train loss: 1.199567119280497, Train accuracy: 0.6723426414860619, Validation loss: 1.1467803716659546, Validation accuracy: 0.6666666865348816
+hook - Train loss: 1.1225557393497891, Train accuracy: 0.4921110007497999, Validation loss: 1.171693205833435, Validation accuracy: 0.6341463327407837
+tip - Train loss: 1.410722255706787, Train accuracy: 0.16937322417895, Validation loss: 1.3445634841918945, Validation accuracy: 0.4576271176338196
+palm - Train loss: 1.194394456015693, Train accuracy: 0.4869760076204936, Validation loss: 1.3164111375808716, Validation accuracy: 0.43478262424468994
+spher - Train loss: 1.0335212482346428, Train accuracy: 0.40413754516177713, Validation loss: 0.8360477685928345, Validation accuracy: 0.6388888955116272
+lat - Train loss: 1.0501721170213487, Train accuracy: 0.7502806054221259, Validation loss: 0.9947919249534607, Validation accuracy: 0.7755101919174194
